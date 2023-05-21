@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - This program prints the size of various files.
- * Retuen:0 (successful)
+ * Return: 0 (successful)
  */
 int main(void)
 {
